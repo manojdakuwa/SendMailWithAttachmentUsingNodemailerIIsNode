@@ -1,0 +1,6 @@
+The server is running on port \\.\pipe\2d8b90cd-3b74-4164-9364-fcc6ba969a4e!!!!!!!!!!!
+Inside the sendMail
+request came
+calling sendmail
+reached inside mail.sendMail function
+Email sent: 250 2.0.0 OK  1578281137 g22sm71033931pgk.85 - gsmtp
